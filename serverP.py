@@ -53,3 +53,6 @@ def start():
 print("[STARTING]: server is booting...")
 start()
 
+
+#working on win10
+
